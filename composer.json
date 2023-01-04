@@ -1,0 +1,16 @@
+{
+    "name": "simplexi/greetr",
+    "description": "test package",
+    "authors": [
+        {
+            "name": "dhaval upadhyay",
+            "email": "dhavalstrauss@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
